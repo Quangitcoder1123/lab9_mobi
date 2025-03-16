@@ -1,6 +1,8 @@
 # clima
 
-A new Flutter project.
+A new Flutter project. Video Demo
+[![Watch the video](https://img.youtube.com/vi/wIbxOm1Se4k/0.jpg)](https://www.youtube.com/watch?v=wIbxOm1Se4k)
+
 
 ## Getting Started
 
